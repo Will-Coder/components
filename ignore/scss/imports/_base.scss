@@ -11,8 +11,13 @@ body {
 
 ::selection { background:#007eb6; color:#fff; }
 
-img {
+img,
+iframe {
   width: 100%;
+}
+
+ul {
+  list-style: none;
 }
 
 a {
